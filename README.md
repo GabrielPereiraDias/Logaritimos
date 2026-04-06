@@ -18,6 +18,7 @@ Cada um dos itens abaixo foi desenvolvido na atividade em anexo:
 <div>
 
   ## 🧠 Cada algoritmo foi dividido em duas partes:
+  
 - **Fluxograma:** Representação visual do fluxo de decisão usando setas e símbolos lógicos.
 - **Pseudocódigo:** Descrição estruturada do algoritmo em linguagem humana, simulando a lógica de uma linguagem de programação.
 
@@ -31,5 +32,6 @@ Você pode ler os algoritmos diretamente no arquivo principal deste repositório
 **Professores:** Raul Porto e Paulo Camargo  
 **Aluno:** Gabriel Pereira Dias  
 **Data:** 06/04/2026
+<div>
 
 **Projeto desenvolvido no SENAI A. Jacob Lafer.**
