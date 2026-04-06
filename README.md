@@ -1,5 +1,6 @@
 # 🚀Lógica de programação - Algorítimos do cotidiano 
 esse repositório contem a atividade completa de uma prática de **Lógica de programação**.
+
 <div>
   
 ## 📚 Desafios Propostos 
@@ -13,8 +14,22 @@ Cada um dos itens abaixo foi desenvolvido na atividade em anexo:
 4. **Troca de lâmpada**
 
 5. **Pegar um ônibus**
+
 <div>
 
   ## 🧠 Cada algoritmo foi dividido em duas partes:
 - **Fluxograma:** Representação visual do fluxo de decisão usando setas e símbolos lógicos.
 - **Pseudocódigo:** Descrição estruturada do algoritmo em linguagem humana, simulando a lógica de uma linguagem de programação.
+
+<div>
+
+### 💻 Como visualizar
+Você pode ler os algoritmos diretamente no arquivo principal deste repositório
+
+<div>
+
+**Professores:** Raul Porto e Paulo Camargo  
+**Aluno:** Gabriel Pereira Dias  
+**Data:** 06/04/2026
+
+**Projeto desenvolvido no SENAI A. Jacob Lafer.**
